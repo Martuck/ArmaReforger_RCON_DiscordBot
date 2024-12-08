@@ -35,7 +35,7 @@ Ensure you have the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/arma-reforger-discord-bot.git
+git clone https://github.com/Martuck/ArmaReforger_RCON_DiscordBot.git
 cd arma-reforger-discord-bot
 ```
 
